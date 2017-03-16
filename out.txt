@@ -1,0 +1,290 @@
+Sample: 1
+     Col:1     Col:2     Col:3     Col:4     Col:5
+        3S       13S        3S        2S        2S
+       13N        9N        7S       11N       11S
+       10N        8N        8S        6N       13S
+        5N        6N        9N        4N        8N
+        2N        5N        1N        1N        4N
+
+     Col:6     Col:7     Col:8     Col:9    Col:10
+        6S        2S        2S       13S        6S
+        8S        3S        7S       12N       14S
+       12S        5S       12N        3N       15N
+       12N       14S       11N        2N        9N
+       10N        6N        6N        1N        7N
+
+    Col:11    Col:12    Col:13    Col:14    Col:15
+        2S        5S        7S        2S       12S
+        6S        9S       13S        7S       15S
+        8S       10S       11N        9S       10N
+       12S       13N        6N        3N        5N
+        8N       11N        5N        1N        3N
+
+    Col:16    Col:17    Col:18
+       13S       12S        3S
+        8N       15S        6S
+        5N       13N        9S
+        4N        9N       13N
+        2N        2N       10N
+
+Sample: 2
+     Col:1     Col:2     Col:3     Col:4     Col:5
+        4S        3S        3S        3S        4S
+        6S        6S        8S        9S        5S
+        8N       10S       11N       11S       11S
+        5N       11S       10N       12S       15S
+        2N        3N        7N       15S        9N
+
+     Col:6     Col:7     Col:8     Col:9    Col:10
+        3S        6S        9S       15S        6S
+        5S        8S       12S       12N        7S
+        6S       15N        7N        8N       12S
+       14S       11N        6N        5N       10N
+       13N        6N        5N        3N        7N
+
+    Col:11    Col:12    Col:13    Col:14    Col:15
+        2S       11S        6S        4S        3S
+       11S       14N        7S       10S        9S
+       12S       12N       12S       11S       11S
+       11N        8N        7N       10N       11N
+        2N        7N        5N        6N        4N
+
+    Col:16    Col:17    Col:18
+        6S        1S        7S
+       10S        3S       13S
+       14S        7S       14S
+       13N       10S       13N
+        2N       11N        3N
+
+Sample: 3
+     Col:1     Col:2     Col:3     Col:4     Col:5
+        5S        1S        9S        6S       13S
+        7S       14N       10S        8S       14S
+       10S       13N       11S       13S       11N
+       10N        4N       14N       15N        6N
+        2N        2N       11N        3N        1N
+
+     Col:6     Col:7     Col:8     Col:9    Col:10
+        2S        2S        4S       11S        2S
+        5S        3S        5S       14S        5S
+       13S       12S       10S       13N       15N
+        5N       13N        6N        8N        6N
+        3N        6N        1N        2N        3N
+
+    Col:11    Col:12    Col:13    Col:14    Col:15
+        3S        2S        1S        1S        3S
+        4S        4S        3S        2S        7S
+        9S        5S       15S        5S       10S
+       15S       12S       10N        6S       10N
+        6N        9N        1N        6N        2N
+
+    Col:16    Col:17    Col:18
+        2S        1S        7S
+        6S       11N       14S
+        8S        9N       15N
+       15S        7N        7N
+        5N        6N        4N
+
+Sample: 4
+     Col:1     Col:2     Col:3     Col:4     Col:5
+        6S        6S        1S        3S        3S
+        8S       15S       10S       14S       14S
+       15S        6N       13S       15N       15S
+       15N        3N       14N        9N       11N
+        2N        2N        1N        8N        3N
+
+     Col:6     Col:7     Col:8     Col:9    Col:10
+       13S        7S       14S        4S        6S
+       13N       14S       13N       12S       11S
+       12N       13N        4N       15S       15S
+       10N       12N        2N       12N       13N
+        2N       10N        1N        3N        3N
+
+    Col:11    Col:12    Col:13    Col:14    Col:15
+        5S        3S        3S       15S        2S
+        8S        4S       13S        9N       15N
+        8N       14N       12N        7N       12N
+        5N        9N        2N        6N        6N
+        3N        3N        1N        2N        2N
+
+    Col:16    Col:17    Col:18
+        6S        1S        3S
+       10S        6S       10S
+       15S       15S       11S
+       13N       15N        3N
+       11N       14N        2N
+
+Sample: 5
+     Col:1     Col:2     Col:3     Col:4     Col:5
+        7S        9S       14S        1S        5S
+       14S       13S       15N        9S        8S
+       15N       14S       13N       11S       15S
+       14N       14N       10N       12S       10N
+        1N       12N        1N       13S        3N
+
+     Col:6     Col:7     Col:8     Col:9    Col:10
+       10S       12S        1S        4S        1S
+       10N       13S       14S       10S        8S
+        9N       14S       14N       12N        9S
+        6N       12N       13N        6N       13N
+        5N        7N        9N        5N        6N
+
+    Col:11    Col:12    Col:13    Col:14    Col:15
+       14N       11S        7S        4S        8S
+       12N       15N       12S        6S       12S
+       10N       10N       14N        7S       13S
+        5N        9N       13N        9N       14S
+        4N        5N       11N        5N        9N
+
+    Col:16    Col:17    Col:18
+        5S        1S        5S
+        7S        7S        8S
+        9N       11S       15S
+        7N       12S       14N
+        6N        9N        1N
+
+Sample: 6
+     Col:1     Col:2     Col:3     Col:4     Col:5
+       12S        5S        2S        5S        2S
+       15N        6S       10S       12S        5S
+        8N       14N       13S       14N        9S
+        4N       11N       14N       11N       12S
+        3N        8N        4N        6N        6N
+
+     Col:6     Col:7     Col:8     Col:9    Col:10
+        4S       12S        4S        3S       14N
+        5S       13S       12S        4S       12N
+       10S       15N       15N       10S        9N
+       15S       14N        4N       13S        4N
+       15N       12N        1N       14S        1N
+
+    Col:11    Col:12    Col:13    Col:14    Col:15
+        4S        4S        1S        1S        9S
+       14S       13S        4S        4S       11S
+       12N       15S        5S       10S       14S
+       10N       12N       10N       11S       10N
+        9N        1N        9N        9N        6N
+
+    Col:16    Col:17    Col:18
+        3S        3S        1S
+        9S        7S        2S
+       15N       11N        4S
+       13N       10N       13N
+       11N        8N        5N
+
+Sample: 7
+     Col:1     Col:2     Col:3     Col:4     Col:5
+        7S        2S        1S        9S        8S
+       13S        3S       12S        8N       10S
+       14S        4S       15N        6N       14S
+       14N        7S       13N        4N       15N
+       12N        3N       10N        2N       12N
+
+     Col:6     Col:7     Col:8     Col:9    Col:10
+        6S        6S        3S        3S        4S
+        7S        8S        8S       10S        5S
+       10S       10S       13S       12S       13N
+        6N       15N       14S       10N       11N
+        3N        5N        6N        3N        6N
+
+    Col:11    Col:12    Col:13    Col:14    Col:15
+        7S        8S        4S        1S        6S
+       11S       15N       11S       15N        7S
+       12S        8N       14S       11N        9S
+       13S        4N       10N        9N        2N
+       12N        2N        2N        4N        1N
+
+    Col:16    Col:17    Col:18
+        4S        5S        7S
+        9S        6S       15S
+        4N        8S       14N
+        3N       13S        9N
+        1N        3N        1N
+
+Sample: 8
+     Col:1     Col:2     Col:3     Col:4     Col:5
+        6S       15S        1S        8S        4S
+       11S       14N       15S       12S        8S
+       13N       10N       10N       15N       10S
+       12N        4N        3N       12N       11S
+        1N        1N        1N        2N        7N
+
+     Col:6     Col:7     Col:8     Col:9    Col:10
+        3S        6S        2S       10S        2S
+        8S       12S        7S       12S        3S
+        8N        8N       11S       13N       14S
+        3N        4N        9N        6N       13N
+        1N        2N        7N        1N        6N
+
+    Col:11    Col:12    Col:13    Col:14    Col:15
+        7S       10S        6S       11S        5S
+       15S       13N       14S       14S       13N
+       13N       11N       12N        8N       11N
+       12N        9N        5N        3N        7N
+        7N        5N        2N        2N        6N
+
+    Col:16    Col:17    Col:18
+        4S        5S        1S
+        5S       13S        5S
+        8N       13N       14N
+        5N       10N        5N
+        3N        7N        4N
+
+Sample: 9
+     Col:1     Col:2     Col:3     Col:4     Col:5
+        5S        6S       15S        1S        4S
+        7S       10S        8N       10S        8S
+       15S       11S        5N       15S       13N
+       12N       12S        4N       14N       11N
+        4N        4N        2N        7N        7N
+
+     Col:6     Col:7     Col:8     Col:9    Col:10
+       10S        1S        2S        6S        1S
+       12S        4S        5S       10S        9S
+       13S       10S        8S       14S       11N
+       14S       14S       13N        4N        2N
+        2N       14N       11N        2N        1N
+
+    Col:11    Col:12    Col:13    Col:14    Col:15
+        4S        3S        4S        2S       12S
+        8S       14N        9S        6S       15S
+       14S       12N       14N       14S       13N
+       13N       10N       13N        2N        6N
+       11N        9N        2N        1N        5N
+
+    Col:16    Col:17    Col:18
+        2S        8S        8S
+       12N       10S        9S
+       10N       11N       15N
+        6N        8N       13N
+        2N        1N        7N
+
+Sample: 10
+     Col:1     Col:2     Col:3     Col:4     Col:5
+        2S       14S       15S        5S        9S
+        5S       15N       15N       10S       14S
+        8S       13N       13N       15N       11N
+       15S       10N        6N       11N        9N
+        7N        4N        2N        8N        1N
+
+     Col:6     Col:7     Col:8     Col:9    Col:10
+       14S        3S        2S       12S        4S
+       12N        7S        6S       14S       11S
+        7N        8S       12S        9N        8N
+        3N       14S        9N        5N        5N
+        1N       10N        3N        2N        1N
+
+    Col:11    Col:12    Col:13    Col:14    Col:15
+       11S        4S        2S        4S        6S
+       13S       11S        4S        6S       15N
+       11N       13N       10S        8S       12N
+       10N       11N       11N        9S       10N
+        7N        6N        1N       12N        1N
+
+    Col:16    Col:17    Col:18
+        2S        1S        1S
+        8S       10S        2S
+       12S       15S       15S
+        7N       14N       13N
+        2N        8N        8N
+
