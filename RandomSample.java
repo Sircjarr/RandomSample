@@ -5,7 +5,7 @@
 // Designations: S = South tree, N = North tree. 
 // An odd number of rows will produce an extra N.
 // Output is formatted for ease of use. 
-// USAGE: java RandomSample out.txt
+// USAGE: java RandomSample <outFile.txt>
 
 import java.util.*;
 import java.io.*;
@@ -224,6 +224,6 @@ public class RandomSample {
 	}
 	
 	public static void usage() {
-		System.out.println("USAGE: java RandomSample outFile.txt");
+		System.out.println("USAGE: java RandomSample <outFile.txt>");
 	}
 }
