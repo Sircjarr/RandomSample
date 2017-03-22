@@ -26,7 +26,7 @@ public class RandomSample {
 			PrintWriter writer = new PrintWriter(new File(args[0]));
 			Scanner scan = new Scanner(System.in);
 			
-			int sampleNum;
+			int dataSetNum;
 			int row;
 			int col;
 			int randSampNum;
@@ -34,9 +34,9 @@ public class RandomSample {
 			
 			// Get input data
 			while (true) {
-				System.out.println("How many samples should be generated?");
-				sampleNum = Integer.parseInt(scan.next());
-				if (sampleNum<=0) {
+				System.out.println("How many data sets should be generated?");
+				dateSetNum = Integer.parseInt(scan.next());
+				if (dataSetNum <= 0) {
 					System.out.println("Enter a number greater than 0");
 					continue;
 				}
@@ -86,7 +86,7 @@ public class RandomSample {
 				
 			// Begin generating sample
 			for (int z = 0; z < sampleNum; z++) {
-				writer.println("Sample: " + increment);
+				writer.println("Data set: " + increment);
 				increment++;
 				
 				// Select which trees in column should be random
