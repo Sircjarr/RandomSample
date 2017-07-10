@@ -1,4 +1,4 @@
 # RandomSample
-This is a simple program that produces a text file displaying a chosen random number of trees given a vineyard with any number of rows and columns. This program was used for entomology experiments.
+Simple program that outputs random points within a predefined grid. This program was used for an entomology experiment that examined leafhoppers in a vineyard. 
 
 Sample output can be viewed in out.txt.
